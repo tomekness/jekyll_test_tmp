@@ -1,0 +1,10 @@
+title: Meine Jekyll Seite
+
+description: >- # Diese Beschreibung wird in den Meta-Tags verwendet.
+  Dies ist meine erste Jekyll-Seite, die mit GitHub Actions erstellt wurde.
+
+baseurl: "" # Das URL-Basisverzeichnis, wenn die Seite nicht im Root-Verzeichnis liegt.
+url: "https://tomekness.github.io/jekyll_test_tmp" # Deine GitHub-Pages URL
+
+# Build settings
+theme: minima
